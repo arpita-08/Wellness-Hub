@@ -11,8 +11,8 @@ Privacy and Security: Your health data is handled securely, ensuring confidentia
 Continuous Updates: With more data, our models improve, ensuring increasingly precise recommendations.
 Take charge of your health with Wellness Hub. We're dedicated to giving you the insights you need for a healthier life.
 
-![Wellnes Hub Interface (Wellness Hub.png)]
-![Prediction (Wellness Hub Prediction.png)]
+![Wellnes Hub Interface](Wellness Hub.png)
+![Prediction](Wellness Hub Prediction.png)
 
 
 
