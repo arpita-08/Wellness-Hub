@@ -12,5 +12,7 @@ Continuous Updates: With more data, our models improve, ensuring increasingly pr
 Take charge of your health with Wellness Hub. We're dedicated to giving you the insights you need for a healthier life.
 
 ![Wellnes Hub Interface (Wellness Hub.png)]
-![Prediction(Wellnes Hub Prediction.png)]
+![Prediction (Wellness Hub Prediction.png)]
+
+
 
